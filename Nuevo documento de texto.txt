@@ -1,0 +1,31 @@
+textos
+index.html
+Brindamos calidad, comodidad y estilo inigualables.Nuestros expertos combinan
+forma y función para dar vida a su visión.
+Crea una Locacion a tu estilo con nuestra colección y haz de tu propiedad un reflejo de ti y de lo que amas.
+
+
+Nuestra colección multifuncional combina diseño y función para adaptarse            tu gusto individual. Haga que cada habitación sea única o elija un tema cohesivo que mejor exprese tus intereses y lo que te inspira.Encontrara                los muebles que necesita, desde lo tradicional hasta lo contemporáneo           estilos o cualquier cosa en el medio. Hay especialistas en productos disponibles       para ayudarte a crear el espacio de tus sueños.
+
+carrusel.js
+
+texto 1
+
+Con nuestras tiendas, es fácil para ti 
+encontrar muebles para su hogar o lugar de trabajo.Estamos en la mayoría de las ciudades importantes de todo el país. ¿Alguna pregunta?
+No dude en contactarnos hoy.
+
+texto 2
+
+Nuestra moderna tienda de muebles proporciona un alto nivel \
+de calidad. Nuestra empresa ha invertido en tecnología avanzada \
+para garantizar que cada producto se haga tan perfecto y\
+lo más consistente posible/ Entendemos lo que los clientes quieren para su \
+hogar y oficina.
+
+
+
+
+
+
+
