@@ -60,10 +60,10 @@ document.getElementById("carousel_buttons").addEventListener('click', (event) =>
 const menuManager = () => {
     if (document.getElementById("app-canvas").dataset.menu === "off-screen") {
         document.getElementById("app-canvas").dataset.menu = "on-screen";
-        document.getElementById("menu-toggle").src = "../src/assets/images/icon-close.svg";
+        document.getElementById("menu-toggle").src = "./src/assets/images/icon-close.svg";
     } else {
         document.getElementById("app-canvas").dataset.menu = "off-screen";
-        document.getElementById("menu-toggle").src = "../src/assets/images/icon-hamburger.svg";
+        document.getElementById("menu-toggle").src = "./src/assets/images/icon-hamburger.svg";
     }
 }
 
